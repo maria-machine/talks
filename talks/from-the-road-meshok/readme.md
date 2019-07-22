@@ -1,6 +1,6 @@
 # С дороги, мешок
 
-*Расшифровка доклада [«С дороги мешок»](https://twitter.com/BeerJSSummit/status/1145003684427980800) на [BeerJS Summit 2019](https://beerjssummit.com/). Многое из-за тайминга не прозвучало. Слайды [online](https://www.icloud.com/keynote/0CQ9RP5sYAX672pk5-T4f2lig#from-the-road-meshok).*
+*Расшифровка доклада [«С дороги, мешок»](https://twitter.com/BeerJSSummit/status/1145003684427980800) на [BeerJS Summit 2019](https://beerjssummit.com/). Многое из-за тайминга не прозвучало. Слайды [online](https://www.icloud.com/keynote/0CQ9RP5sYAX672pk5-T4f2lig#from-the-road-meshok).*
 
 ![](./cover.jpg)
 
