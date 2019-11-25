@@ -1,6 +1,6 @@
 # Машины учатся. Не бойся, возглавь!
 
-*Примерная расшифровка мини-доклада «Машины учатся. Не бойся, возглавь!» с [HolyJS 2019 Moscow (Lightning talks)](https://holyjs-moscow.ru). Лучше всего всеравно посмотеть [видео](https://youtu.be/8OkhauJfTRI), а еще есть [слайды](https://www.icloud.com/keynote/0p5KDGimWhZJBd1bf63HS4Uew#machines-learning%2C_react).*
+*Примерная расшифровка мини-доклада «Машины учатся. Не бойся, возглавь!» с [HolyJS 2019 Moscow (Lightning talks)](https://holyjs-moscow.ru). Лучше всего все равно посмотреть [видео](https://youtu.be/8OkhauJfTRI), а еще есть [слайды](https://www.icloud.com/keynote/0p5KDGimWhZJBd1bf63HS4Uew#machines-learning%2C_react).*
 
 ![](./cover.jpg)
 
